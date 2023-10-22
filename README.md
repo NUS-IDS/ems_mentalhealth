@@ -1,6 +1,7 @@
 
 We used Python 3.11.4 for our experiments and
-the libraries used by us are listed in requirements.txt 
+the libraries used by us are listed in code/requirements.txt 
+
 ("pip install -r requirements.txt" )
 
 --
