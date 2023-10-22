@@ -3,8 +3,8 @@
 
 The general flavor of running this code involves:
 1. Setting the parameters in the config file (Such as model names, dictionary paths etc)
-2. Run Predictor code with two parameters the "data.tsv" and output filepath (We write out the preds as a TSV file)
-3. Compute the measures using computeMeasures (provide the gold directory path and the predictions TSV files as input)
+2. Running the prediction code with two parameters the "data.tsv" and output filepath (We write out the preds as a TSV file)
+3. Computing the measures using computeMeasures (provide the gold directory path and the predictions TSV files as input)
 
 For example:
 After ensuring the correct paths and names in SVPConfig.py, run 
