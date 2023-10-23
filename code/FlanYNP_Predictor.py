@@ -52,7 +52,7 @@ if __name__=="__main__":
         for s in sdefs:
             sdef = sdefs[s]
             
-            prompt = prompt_pfx +s+" "+ sdef+" Is this label applicable to the context: "+txt+"? Answer Yes or No."
+            prompt = prompt_pfx +s+" "+ sdef+". Question: Is this label applicable to the context: "+txt+"? Answer Yes or No."
             
             inputs.append(prompt)
 
