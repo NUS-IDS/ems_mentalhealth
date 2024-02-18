@@ -1,6 +1,6 @@
 
 
-This branch holds the submission materials for under-review demo paper for IJCAI-24
+This branch holds the submission materials for the demo paper under review for IJCAI-24
 titled "Generating Theory-Grounded Responses for Mental Health Forum Questions"
 <ol>
 <li>We provide compiled guidelines from multiple resources for treating sample EMSs in "Schema Interventions" (Compiled by Beng Heng Ang)
