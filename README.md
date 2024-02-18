@@ -13,7 +13,7 @@ are used to prompt the LLM during response generation.
 The outline of code in mydemo*.py for an idea. The complete code will be released after review.
 </li>
 <li>
-Outputs contains sample runs of our demo on the dataset released in the previous paper (with counselor-annotated EMS labels).
+Outputs containing sample runs of our demo on the dataset released in the previous paper (with counselor-annotated EMS labels).
 These files also contain the "default" response obtained by prompting the GPT 3.5 LLM as well as an actual counselor response
 from <a href="https://github.com/nbertagnolli/counsel-chat">CounselChat dataset</a> released by Nicolas Bertagnolli.
 </li>
