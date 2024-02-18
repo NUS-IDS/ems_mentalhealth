@@ -25,5 +25,5 @@ from <a href="https://github.com/nbertagnolli/counsel-chat">CounselChat dataset<
 Please check under the <a href="https://github.com/NUS-IDS/ems_mentalhealth/tree/emnlpfindings"> emnlpfindings branch </a> for the repository 
 of our EMNLP Findings 2023 paper 
 
-<a href="https://aclanthology.org/2023.findings-emnlp.792/">Identifying Early Maladaptive Schemas from Mental Health Question Texts" </a>
+<a href="https://aclanthology.org/2023.findings-emnlp.792/">Identifying Early Maladaptive Schemas from Mental Health Question Texts</a>
 Sujatha Das Gollapalli, Beng Heng Ang, See-Kiong Ng
