@@ -1,16 +1,16 @@
 
 
 This branch holds the submission materials for the demo paper under review for IJCAI-24
-titled "Generating Theory-Grounded Responses for Mental Health Forum Questions"
+titled "Generating Theory-Grounded Responses for Mental Health Forum Questions". We provide
 <ol>
-<li>We provide compiled guidelines from multiple resources for treating sample EMSs in "Schema Interventions" (Compiled by Beng Heng Ang)
+<li>The compiled guidelines from multiple resources for treating sample EMSs in "Schema Interventions" (Compiled by Beng Heng Ang)
 </li>
 <li>The treatment suggestions lists used in response generation can be found in the "treatments" and "rewritten_treatments" directories. 
 Top-3 matching suggestions for a given question text
 are used to prompt the LLM during response generation.
 </li>
 <li>
-The complete code will be released after review with the outline released in the mydemo*.py for an idea.
+The outline of code in mydemo*.py for an idea. The complete code will be released after review.
 </li>
 <li>
 Outputs contains sample runs of our demo on the dataset released in the previous paper (with counselor-annotated EMS labels).
