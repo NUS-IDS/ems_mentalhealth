@@ -10,7 +10,7 @@ The treatment suggestions list can be found in the "treatments" directories.
 Top-3 matching suggestions for a given question text
 are used to prompt the LLM during response generation.
 <br>
-The complete code will be released after review with the outline released in the demo*.py of our functions
+The complete code will be released after review with the outline released in the mydemo*.py for an idea.
 <br>
 <br>
 
