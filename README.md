@@ -5,9 +5,7 @@ titled "Generating Theory-Grounded Responses for Mental Health Forum Questions"
 <ol>
 <li>We provide compiled guidelines from multiple resources for treating sample EMSs in "Schema Interventions" (Compiled by Beng Heng Ang)
 </li>
-<li>The treatment suggestions lists used in response generation can be found in the "treatments" and "rewritten_treatments" directories. </li>
-
-<li>
+<li>The treatment suggestions lists used in response generation can be found in the "treatments" and "rewritten_treatments" directories. 
 Top-3 matching suggestions for a given question text
 are used to prompt the LLM during response generation.
 </li>
@@ -16,7 +14,6 @@ The complete code will be released after review with the outline released in the
 </li>
 <li>
 Outputs contains sample runs of our demo on the dataset released in the previous paper (with counselor-annotated EMS labels).
-
 These files also contain the "default" response obtained by prompting the GPT 3.5 LLM as well as an actual counselor response
 from <a href="https://github.com/nbertagnolli/counsel-chat">CounselChat dataset</a> released by Nicolas Bertagnolli.
 </li>
