@@ -19,6 +19,7 @@ Outputs containing sample runs of our demo on a previously-released dataset (wit
 These files also contain the "default" response obtained by prompting the GPT 3.5 LLM as well as an actual counselor response
 from <a href="https://github.com/nbertagnolli/counsel-chat">CounselChat dataset</a> released by Nicolas Bertagnolli.
 </li>
+<li>The prompts used in experiments and the anecdote with generated responses used in the paper</li>
 </ol>
 
 <br>
