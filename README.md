@@ -4,10 +4,12 @@ This branch holds the submission materials for the demo paper under review for I
 titled "Generating Theory-Grounded Responses for Mental Health Forum Questions". We provide
 <ol>
 <li>The compiled guidelines from multiple resources for treating sample EMSs in "Schema Interventions" (Compiled by Beng Heng Ang)
+with the <a href=""resources from which these were obtained.
+
+  
 </li>
-<li>The treatment suggestions lists used in response generation in the "treatments" and "rewritten_treatments" directories. 
-Top-3 matching suggestions for a given question text
-are used to prompt the LLM during response generation.
+<li>The treatment suggestions lists used in response generation for this demo can be found in the "treatments" and "rewritten_treatments" directories. 
+Top-3 matching suggestions for a given question text are used to prompt the LLM during response generation.
 </li>
 <li>
 The outline of code in mydemo*.py for an idea. The complete code will be released after review.
