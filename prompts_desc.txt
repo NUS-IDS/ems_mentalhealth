@@ -14,5 +14,5 @@ counselor_prompt_pfx="As a mental health counselor, respond empathetically using
 
 counselor_prompt_sfx= " and respond to the following QA forum post. Post= "
 
-#Default prompt for GPT <br>
+#Default prompt for GPT 
  prompt="As a mental health counselor, respond empathetically to the following QA forum post. Post= "
