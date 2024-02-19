@@ -4,7 +4,7 @@ This branch holds the submission materials for the demo paper under review for I
 titled "Generating Theory-Grounded Responses for Mental Health Forum Questions". We provide
 <ol>
 <li>The compiled guidelines from multiple resources for treating sample EMSs in "Schema Interventions" (Compiled by Beng Heng Ang)
-with the <a href=""resources from which these were obtained.
+with the <a href="https://github.com/NUS-IDS/ems_mentalhealth/blob/cqademo/websites_urls.pdf">resources</a> from which these were obtained.
 
   
 </li>
