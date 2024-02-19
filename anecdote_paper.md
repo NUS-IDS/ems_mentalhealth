@@ -11,7 +11,7 @@ but I don't know. It just feels like something is really off.
 EMS Label
 ['2. MISTRUST/ABUSE (MA)']
 
-LLM chosen best treatment suggestions:
+<b>LLM chosen best treatment suggestions:</b>
 1. Think about a full spectrum of trustworthiness of others. Using this thinking to guide you,
 consciously allow yourself to trust others when they deserve it.
 
@@ -21,15 +21,15 @@ Use learned assertion skills.
 3. List traumas that involved abuse to you. If it is too difficult to create a list, tell a therapist 
 so he or she can make the list. Decrease the negative emotions and self-perceptions created by these memories.
 
-Known-counselor response (Ground Truth):
-
+<b>Known-counselor response (Ground Truth):
+</b>
 Grief has a huge impact on us and everyone's reaction is different. The one common reaction however is to shut 
 down and distance ourselves. Her relationship with her grandmother was close, given she took care of her up 
 until she passed. It sounds like she is working through a difficult loss and her ability to connect with you,
 or anyone else, is likely low right now. Trust what she is telling you and try to be there for her as she works 
 through it. If she finds it too difficult to connect again, a good grief counselor can help her get back on track.
 
-Response from STeer:
+<b>Response from STeer:</b>
 It sounds like you are going through a difficult time in your relationship. 
 It's understandable that you are feeling insecure and unsure about what is going on 
 with your girlfriend. It's important to remember that grief can have a significant impact
@@ -42,7 +42,7 @@ current feelings of insecurity. It's important to communicate openly and honestl
 your concerns and to try to support each other through this difficult period. Remember to practice self-care
 and be patient with yourself and your girlfriend as you navigate through these emotions together.
 
-Response from GPT 3.5 Turbo 
+<b>Response from GPT 3.5 Turbo </b>
 
 I'm sorry to hear that you're going through a difficult time in your relationship. It sounds like your 
 girlfriend is still grieving the loss of her grandmother and is having a hard time connecting with others, 
