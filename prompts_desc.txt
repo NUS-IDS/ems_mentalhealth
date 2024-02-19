@@ -1,17 +1,17 @@
 #Prompt for selecting the most applicable treatment suggestions
 
-<br>
+
 select_prompt_pfx="Consider the following list of suggestions: "
 
-<br>select_prompt_middle="From the above list select up to three most applicable for the following scenario: "
+select_prompt_middle="From the above list select up to three most applicable for the following scenario: "
 
-<br>select_prompt_sfx="Only return the numbers of items from the list above as a comma-separated list."
+select_prompt_sfx="Only return the numbers of items from the list above as a comma-separated list."
 
-<br>
+
 #Prompt for generating ST-infused responses
-<br>
+
 counselor_prompt_pfx="As a mental health counselor, respond empathetically using the following suggestions "
-<br>
+
 counselor_prompt_sfx= " and respond to the following QA forum post. Post= "
 
 #Default prompt for GPT <br>
