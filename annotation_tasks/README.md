@@ -23,7 +23,7 @@ For the Upworker, we shared the treatment suggestions from Step-2 and Responses 
 The annotator has a verified account and has a masters degree in Clincial Psychology. She was paid USD 50 for annotating
 the set of 22 questions in our dataset.
 <br>
-<b> AMT workers</b> These workers were chosen based on a qualification test based on EMS labels. Only annotators who scored at least
+<b>Evaluation 2</b> AMT workers were chosen based on a qualification test based on EMS labels. Only annotators who scored at least
 80\% of the ten MH questions correctly, based on the schema definitions were able to rate the responses.
 
 They were paid USD 0.5-0.7 per assignment for providing the ratings along the four dimensions above (as well as how personal the response sounds).
