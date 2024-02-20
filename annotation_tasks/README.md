@@ -26,7 +26,7 @@ the set of 22 questions in our dataset.
 <b>Evaluation 2</b> AMT workers were chosen based on a qualification test based on EMS labels. Only annotators who scored at least
 80\% of the ten MH questions correctly, based on the schema definitions were able to rate the responses.
 
-They were paid USD 0.5-0.7 per assignment for providing the ratings along the four dimensions above (as well as how personal the response sounds).
+They were paid USD 0.6 per assignment for providing the ratings along the four dimensions above (as well as how personal the response sounds).
 Sample Snapshots are included.
 
 
