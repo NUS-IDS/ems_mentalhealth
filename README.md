@@ -20,6 +20,7 @@ These files also contain the "default" response obtained by prompting the GPT 3.
 from <a href="https://github.com/nbertagnolli/counsel-chat">CounselChat dataset</a> released by Nicolas Bertagnolli.
 </li>
 <li>The prompts used in experiments and the anecdote with generated responses used in the paper</li>
+<li>A running demonstration of our system</li>
 </ol>
 
 <br>
