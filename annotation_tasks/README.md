@@ -26,9 +26,12 @@ the set of 22 questions in our dataset.
 <b>Evaluation 2</b> AMT workers were chosen based on a qualification test based on EMS labels. Only annotators who scored at least
 80\% of the ten MH questions correctly, based on the schema definitions were able to rate the responses.
 
-They were paid USD 0.6 per assignment for providing the ratings along the four dimensions above (as well as how personal the response sounds).
+They were paid USD 0.6 per assignment (HIT) for providing the ratings along the four dimensions above (as well as how personal the response sounds).
 Sample Snapshots are included.
 
+On the AMT platform, we required the crowdworkers to have greater than 98% HIT approval rate, a
+minimum of 10,000 HITs, be located in the United States, and obtain 80\% or above on 
+EMS based qualification. 
 
 
 
