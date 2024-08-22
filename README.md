@@ -1,7 +1,8 @@
 
 
-This branch holds the submission materials for the demo paper under review for IJCAI-24
-titled "Generating Theory-Grounded Responses for Mental Health Forum Questions". We provide
+This branch holds the supplementary materials for our ECAI-24 paper
+titled "Counseling Responses for Mental Health Forum
+Questions with Early Maladaptive Schema Prediction". We provide
 <ol>
 <li>The compiled guidelines from multiple resources for treating sample EMSs in <a href="https://github.com/NUS-IDS/ems_mentalhealth/blob/cqademo/Schema_Interventions.pdf">Schema Interventions</a> (Compiled by Beng Heng Ang)
 with the <a href="https://github.com/NUS-IDS/ems_mentalhealth/blob/cqademo/websites_urls.pdf">resources</a> from which these were obtained.
