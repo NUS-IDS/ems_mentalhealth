@@ -8,7 +8,7 @@ Created on Wed Feb  4 12:19:16 2026
 from Common import getChatGPTResponse, getGeminiResponse, parseJSONWithKeys
 
 
-def loadSchemaDefs(name2def_tsv="/home/sdas/npj_calba/ST_resources/schema_defs.tsv"):
+def loadSchemaDefs(name2def_tsv="../resources/schema_defs.tsv"):
     
     lines =  open (name2def_tsv, "r").readlines()
     name2def={}
