@@ -13,7 +13,7 @@ The file [Common.py](Common.py) needs to be edited suitably to include your own 
 
 The LLM prompts use the schema definitions from [../resources/schema_defs.tsv](../resources/schema_defs.tsv)
 
-The predictions on EMNLP dataset from various models are include in [stlabels](stlabels) directory.
+The predictions on the EMNLP dataset from various models are include in [../stlabels](../stlabels) directory.
 
 
 The output labels can be obtained by using processEMNLP. For example:
