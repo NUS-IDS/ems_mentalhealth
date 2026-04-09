@@ -1,5 +1,4 @@
-
-code used for obtaining labels for mindline/7cups
+<b>The code used for obtaining labels for mindline/7cups</b>
 
 The code is simple Python script which makes use of OpenAI api.
 
