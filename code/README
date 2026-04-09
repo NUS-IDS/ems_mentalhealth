@@ -7,16 +7,16 @@ openai version 1.108.0
 
 LLMs used in experiments include
 "gpt-5-mini" and "gemini-3-flash-preview" 
-The LLM prompts use the schema definitions from <a href="../resources/schema_defs.tsv">../resources/schema_defs.tsv</a>
+The LLM prompts use the schema definitions from [../resources/schema_defs.tsv](../resources/schema_defs.tsv)
 
-The predictions on EMNLP dataset from various models are include in <a href="stlabels">stlabels</a>directory.
+The predictions on EMNLP dataset from various models are include in [stlabels](stlabels)</a>directory.
 and can be obtained from 
 The output labels can be obtained by using processEMNLP. For example:
 
-``python processEMNLP.py ../gold/gold.tsv output.csv gpt''
+```python processEMNLP.py ../gold/gold.tsv output.csv gpt```
 
 whereas the metrics computed on these results by running
 
-``python computeMeasures.py ../gold output.csv''
+```python computeMeasures.py ../gold output.csv```
 
 
