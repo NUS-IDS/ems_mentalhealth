@@ -123,12 +123,16 @@ def evaluateCSVPreds(predsfile, goldfile, mapfile, \
     
     
 if __name__=="__main__":
-         
-    gold_dir="../gold"
+    
+    if len(sys.argv)!=3:
+        print ("args1: gold-dir-path, args2: labels.csv(output from processEMNLP)")
+        sys.exit(1)
+        
+    gold_dir=sys.argv[1]
     gold_file=gold_dir+"/gold.tsv"
     lmap_file=gold_dir+"/labels.list"
     
-    preds_file="./gemini_3labels.csv"
+    preds_file=sys.argv[2] 
     colstart=3
     skip=2
     print ("Using preds file "+preds_file)
