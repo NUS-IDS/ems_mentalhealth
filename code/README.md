@@ -9,7 +9,7 @@ openai version 1.108.0
 LLMs used in experiments include
 "gpt-5-mini" and "gemini-3-flash-preview" 
 
-Please edit Common.py to supply your own LLM API keys.
+The file [Common.py](Common.py) needs to be edited suitably to include your own API keys for OpenAI/Google.
 
 The LLM prompts use the schema definitions from [../resources/schema_defs.tsv](../resources/schema_defs.tsv)
 
