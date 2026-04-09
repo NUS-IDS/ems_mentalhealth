@@ -1,0 +1,35 @@
+In [1]: runfile('/home/sdas/npj_calba/computeMeasures_ss.py', wdir='/home/sdas/npj_calba')
+Using gold file /home/sdas/emnlp_final_share/gold/gold.tsv
+Using map file /home/sdas/emnlp_final_share/gold/labels.list
+===========
+Using preds file /home/sdas/npj_calba/stlabels/emnlp/svp.preds.tsv
+Computing measures for 27 files
+measures = {'f1': 0.2607583774250441, 'precision': 0.2759259259259259, 'hasOne': 0.6818181818181818, 'recall': 0.27530864197530863, 'pct_oz_ngz': 0.3181818181818182, 'pct_pz': 0.07407407407407407, 'pct_nbz': 0.2, 'pct_gz': 0.18518518518518517}
+===========
+Using preds file /home/sdas/npj_calba/stlabels/emnlp/epm.preds.tsv
+Computing measures for 27 files
+measures = {'f1': 0.2931644487200043, 'precision': 0.32848324514991184, 'hasOne': 0.6363636363636364, 'recall': 0.3074074074074074, 'pct_oz_ngz': 0.36363636363636365, 'pct_pz': 0.25925925925925924, 'pct_nbz': 0.4, 'pct_gz': 0.18518518518518517}
+===========
+Using preds file /home/sdas/npj_calba/stlabels/emnlp/emnlp_negotiated_dir2.csv
+Computing measures for 27 files
+measures = {'f1': 0.3544973544973545, 'precision': 0.4753086419753086, 'hasOne': 0.7272727272727273, 'recall': 0.31234567901234567, 'pct_oz_ngz': 0.2727272727272727, 'pct_pz': 0.037037037037037035, 'pct_nbz': 0.0, 'pct_gz': 0.18518518518518517}
+===========
+Using preds file /home/sdas/npj_calba/stlabels/emnlp/emnlp_negotiated_dir1.csv
+Computing measures for 27 files
+measures = {'f1': 0.3868125701459035, 'precision': 0.5358024691358024, 'hasOne': 0.7727272727272727, 'recall': 0.33086419753086427, 'pct_oz_ngz': 0.22727272727272727, 'pct_pz': 0.0, 'pct_nbz': 0.0, 'pct_gz': 0.18518518518518517}
+===========
+Using preds file /home/sdas/npj_calba/stlabels/emnlp/gpt_3labels.csv
+Computing measures for 27 files
+measures = {'f1': 0.3547619047619048, 'precision': 0.48148148148148157, 'hasOne': 0.8181818181818182, 'recall': 0.31234567901234567, 'pct_oz_ngz': 0.18181818181818182, 'pct_pz': 0.0, 'pct_nbz': 0.0, 'pct_gz': 0.18518518518518517}
+===========
+Using preds file /home/sdas/npj_calba/stlabels/emnlp/emnlp_or.csv
+Computing measures for 27 files
+measures = {'f1': 0.39619475175030733, 'precision': 0.4493827160493828, 'hasOne': 0.8636363636363636, 'recall': 0.40308641975308646, 'pct_oz_ngz': 0.13636363636363635, 'pct_pz': 0.0, 'pct_nbz': 0.0, 'pct_gz': 0.18518518518518517}
+===========
+Using preds file /home/sdas/npj_calba/stlabels/emnlp/gemini_3labels.csv
+Computing measures for 27 files
+measures = {'f1': 0.39659024103468554, 'precision': 0.4753086419753086, 'hasOne': 0.8181818181818182, 'recall': 0.37407407407407406, 'pct_oz_ngz': 0.18181818181818182, 'pct_pz': 0.1111111111111111, 'pct_nbz': 0.2, 'pct_gz': 0.18518518518518517}
+===========
+Using preds file /home/sdas/npj_calba/stlabels/emnlp/emnlp_and.csv
+Computing measures for 27 files
+measures = {'f1': 0.3372134038800706, 'precision': 0.5246913580246914, 'hasOne': 0.6818181818181818, 'recall': 0.2833333333333333, 'pct_oz_ngz': 0.3181818181818182, 'pct_pz': 0.14814814814814814, 'pct_nbz': 0.2, 'pct_gz': 0.18518518518518517}
